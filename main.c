@@ -2,7 +2,7 @@
 
 int main(){
     int x;
-    printf("Welcome");
+    printf("Welcome, input your number");
     scanf("%d", &x);
     printf("%d", 2 * x * x * x);
 }
